@@ -19,5 +19,6 @@ for single query execution time:
 
 for all query:
 `allq(5)` => run all query 5 times each
+There are queries with **_** they are alternatives.
 
 
