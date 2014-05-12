@@ -21,4 +21,5 @@ for all query:
 `allq(5)` => run all query 5 times each
 There are queries with **_** they are alternatives.
 
+Basex directory contains query in basex.
 
