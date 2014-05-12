@@ -12,12 +12,13 @@ run mongo instance
 run mongo.exe, use database, and then load script
 `mongo`
 `use basex`
-`load('path-to-script/xmkar-mongodb-query.js')`
+`load('path-to-script/xmkark-mongodb-query.js')`
 
 for single query execution time: 
 `single(1, 5)`  => question number 1 run 5 times
 
 for all query:
 `allq(5)` => run all query 5 times each
+There are queries with **_** they are alternatives.
 
 
