@@ -22,5 +22,5 @@ for all query:
 There are queries with **_** they are alternatives.
 
 **Basex** directory contains query in basex.
- - Query N0. 4 and 7 are not possible.
+ - Query No. 4 and 7 are not possible.
 
