@@ -15,11 +15,11 @@ run mongo.exe, use database, and then load script
 `load('path-to-script/xmkark-mongodb-query.js')`
 
 for single query execution time: 
-`single(1, 5)`  => question number 1 run 5 times
+`single(1, 5)`  => Query number 1 run 5 times
 
 for all query:
 `allq(5)` => run all query 5 times each
-There are queries with **_** they are alternatives.
+There are queries with **_** like **q17_2()**, they are alternatives.
 
 **Basex** directory contains query in basex.
  - Query No. 4 and 7 are not possible.
