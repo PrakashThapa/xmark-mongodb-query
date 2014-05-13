@@ -21,6 +21,6 @@ for all query:
 `allq(5)` => run all query 5 times each
 There are queries with **_** like **q17_2()**, they are alternatives.
 
-**Basex** directory contains query in basex.
+**Basex** directory contains query in basex. For Basex, [nosql branch](https://github.com/PrakashThapa/basex/tree/nosql) should be include in java
  - Query No. 4 and 7 are not possible.
 
